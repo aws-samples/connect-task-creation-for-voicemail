@@ -1,0 +1,16 @@
+{
+  "app": "python3 app.py",
+  "context": {
+    "@aws-cdk/core:enableStackNameDuplicates": "true",
+    "aws-cdk:enableDiffNoFail": "true",
+    "@aws-cdk/core:stackRelativeExports": "true",
+    "@aws-cdk/aws-ecr-assets:dockerIgnoreSupport": true,
+    "@aws-cdk/aws-secretsmanager:parseOwnedSecretName": true,
+    "@aws-cdk/aws-kms:defaultKeyPolicies": true,
+    "@aws-cdk/aws-s3:grantWriteWithoutAcl": true,
+    "@aws-cdk/aws-ecs-patterns:removeDefaultDesiredCount": true,
+    "instanceId": "aa67c4a9-d500-4721-9613-99e0123cc42c",
+    "contactFlowId": "e3f68dd8-c28b-4dce-9c80-1866a18ece53",
+    "eventSourceArn": "arn:aws:dynamodb:us-west-2:985176756686:table/connect-comprehend-task-contactDetails/stream/2021-04-05T17:38:36.513"
+  }
+}

@@ -1,0 +1,7 @@
+README.md
+setup.py
+record_comprend_task/record_comprend_task.egg-info/PKG-INFO
+record_comprend_task/record_comprend_task.egg-info/SOURCES.txt
+record_comprend_task/record_comprend_task.egg-info/dependency_links.txt
+record_comprend_task/record_comprend_task.egg-info/requires.txt
+record_comprend_task/record_comprend_task.egg-info/top_level.txt
