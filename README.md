@@ -1,6 +1,6 @@
 # Introduction
 
-This project demonstrate how to create an Amazon Connect task from a phone call with Amazon Transcribe and Comprehend
+This project demonstrates how to create an Amazon Connect task from a phone call with Amazon Transcribe and Comprehend. This can be an alternative to a voicemail, except that the "voicemail" is turned into a Connect Task, which gets routed/assigned.  
 
 ## Solution Overview
 
