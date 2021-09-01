@@ -119,7 +119,7 @@ command.
 2. Go to the Amazon Lex Dashboard and delete the Lex bot created in step 9.
 
 # Security
-See [CONTRIBUTING] (https://github.com/aws-samples/connect-task-creation-for-voicemail/blob/main/CONTRIBUTING.md#security-issue-notifications) for more information.
+See [CONTRIBUTING](https://github.com/aws-samples/connect-task-creation-for-voicemail/blob/main/CONTRIBUTING.md#security-issue-notifications) for more information.
 
 # License
 This library is licensed under the MIT-0 License. See the LICENSE file.
